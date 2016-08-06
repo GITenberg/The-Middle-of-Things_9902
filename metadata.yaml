@@ -1,0 +1,31 @@
+_repo: The-Middle-of-Things_9902
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fletcher, J. S. (Joseph Smith)
+    alias: Fletcher, Joseph Smith
+    birthdate: 1863
+    deathdate: 1935
+    gutenberg_agent_id: '1761'
+    url: http://www.gutenberg.org/2009/agents/1761
+    wikipedia: http://en.wikipedia.org/wiki/J._S._Fletcher
+description: When wealthy Mr. Ashton is found murdered in an alley with his wallet
+  and jewelry stolen, the police quickly find the culprit, a young man who pawns one
+  of the victim's rings. But Ashton's friend Mr. Viner believes the police have made
+  a mistake and takes matters into his own hands as he seeks to avenge his friend
+  and save an innocent man.
+gutenberg_bookshelf: Detective Fiction
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9902'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PR'
+- GITenberg
+title: The Middle of Things
+url: http://www.gutenberg.org/ebooks/9902
