@@ -1,5 +1,8 @@
 _repo: The-Middle-of-Things_9902
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Fletcher, J. S. (Joseph Smith)
@@ -14,6 +17,8 @@ description: When wealthy Mr. Ashton is found murdered in an alley with his wall
   of the victim's rings. But Ashton's friend Mr. Viner believes the police have made
   a mistake and takes matters into his own hands as he seeks to avenge his friend
   and save an innocent man.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9902#The-Middle-of-Things
 gutenberg_bookshelf: Detective Fiction
 gutenberg_issued: '2006-02-01'
 gutenberg_type: Text
